@@ -1,13 +1,15 @@
 # Hi, I'm Yogendra P Singh
 
-**Senior Solutions Architect @ Mediacorp** · Distributed Systems · Mobile & Scalable Platform Engineering · Singapore
+**Senior Solutions Architect @ Mediacorp** · Distributed Systems · Mobile & Scalable Platform Engineering
 
-I design and scale mobile and platform systems for high-traffic digital products. I've spent **15+ years** building them, most recently on Singapore's national news and media apps. My focus is system design, mobile architecture, API integration, performance, and production reliability.
+I design and scale mobile and platform systems for high-traffic digital products. I've spent **15+ years** building them, most recently on Singapore's national news and media apps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogendra33/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ys.yogendra22@gmail.com)
+![Location](https://img.shields.io/badge/Based_in-Singapore-555?style=flat)
 
----
+> [!NOTE]
+> **Now:** Architecting mobile platforms at Mediacorp · Building [Tazuqo](https://tazuqo.com/) · Writing [architecture case studies](https://github.com/ysyogendra22/architecture-case-studies)
 
 ## What I Do
 
@@ -20,9 +22,9 @@ I design and scale mobile and platform systems for high-traffic digital products
 
 | Project | My Role & Focus | Status |
 | --- | --- | --- |
-| [Channel News Asia (CNA)](https://www.channelnewsasia.com/) | Mobile platform architecture for a high-traffic news app: performance, onboarding, authentication, and offline handling | Live |
-| [GetInvofy](https://getinvofy.com/) | Invoice generation SaaS with cloud deployment and payment integration | Live |
-| [Tazuqo](https://tazuqo.com/) | Platform connecting guests with home dining hosts in Singapore for shared meals | Launching soon |
+| [Channel News Asia (CNA)](https://www.channelnewsasia.com/) | Mobile platform architecture for a high-traffic news app: performance, onboarding, authentication, and offline handling | 🟢 Live |
+| [GetInvofy](https://getinvofy.com/) | Invoice generation SaaS with cloud deployment and payment integration | 🟢 Live |
+| [Tazuqo](https://tazuqo.com/) | Platform connecting guests with home dining hosts in Singapore for shared meals | 🟡 Launching soon |
 
 ## Open Knowledge
 
@@ -35,6 +37,8 @@ I write about how real production systems are designed, and about what it takes 
 
 ## Tech Stack
 
+[![Tech stack](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,aws,docker,git)](https://skillicons.dev)
+
 | Area | Technologies |
 | --- | --- |
 | **Architecture** | Distributed Systems · System Design · Event-Driven Systems · API Design · Caching · Observability |
@@ -44,12 +48,21 @@ I write about how real production systems are designed, and about what it takes 
 
 ## Experience
 
+**Mediacorp**, Senior Solutions Architect · 2018 – Present · Singapore
+
+<details>
+<summary>Full career history (2011 – Present)</summary>
+
+<br>
+
 | Company | Role | Period |
 | --- | --- | --- |
 | Mediacorp, Singapore | Senior Solutions Architect | 2018 – Present |
 | NetSolutions, India | Sr. Software Engineer | 2015 – 2018 |
 | WebAstral Infotech, India | Team Leader | 2014 |
 | Medma Infomatix, India | Software Developer | 2011 – 2013 |
+
+</details>
 
 ---
 
